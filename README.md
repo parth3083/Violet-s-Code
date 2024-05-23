@@ -2,7 +2,7 @@ Components Structure :
 1.Navbar ✅
 2.Big Hero ✅
 3.Horse ✅
-4.Train
+4.Train ✅
 5.Comic 1 
  Comic 2
 Chair

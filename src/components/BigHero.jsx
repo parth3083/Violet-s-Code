@@ -4,6 +4,7 @@ import Navbar from "../components/Navbar"
 import image2 from "../assets/chopper.png"
 import Car_Horse from './Car_Horse'
 import Car_Horse_2 from './Car_Horse_2'
+import Train from './Train'
 function BigHero() {
   return (
     <div 
@@ -31,7 +32,8 @@ function BigHero() {
         <h1 className='hel w-[90%] text-4xl font-regular text-center text-white'>Violet's Code is a graphic novel exploring the ethical dilemmas of technology and survival amid a growing climate crisis. Targeting adults and young adults, it is currently in production and seeking publishing and distribution.</h1>
 </div>
       <Car_Horse />
-      <Car_Horse_2/>
+      <Car_Horse_2 />
+      <Train/>
   </div>
   )
 }
