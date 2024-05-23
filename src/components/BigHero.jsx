@@ -5,6 +5,7 @@ import image2 from "../assets/chopper.png"
 import Car_Horse from './Car_Horse'
 import Car_Horse_2 from './Car_Horse_2'
 import Train from './Train'
+import Comic_Chair from './Comic_Chair'
 function BigHero() {
   return (
     <div 
@@ -33,7 +34,8 @@ function BigHero() {
 </div>
       <Car_Horse />
       <Car_Horse_2 />
-      <Train/>
+      <Train />
+      <Comic_Chair/>
   </div>
   )
 }

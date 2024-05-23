@@ -14,10 +14,10 @@ function Train() {
       }}
           className='w-full h-[200vh] bg-red-500 relative'>
           <div className="light w-full h-full absolute top-0">
-              <img src={image2 } className='w-full h-full object-cover'  alt="" />
+              <img src={image2 } className='w-full h-full  object-cover'  alt="" />
           </div>
           <div className="light w-full h-full absolute top-0">
-              <img src={image3} className='w-full h-full object-cover'  alt="" />
+              <img src={image3} className='w-full h-full scale-100 object-cover'  alt="" />
           </div>
           <div className="light w-full h-full absolute top-0">
               <img src={image4} className='w-full h-full object-cover'  alt="" />
