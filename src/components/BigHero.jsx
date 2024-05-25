@@ -9,6 +9,7 @@ import Comic_Chair from './Comic_Chair'
 import Comic_Face from './Comic_Face'
 import Comic_Bokk from './Comic_Bokk'
 import Ipad from './Ipad'
+import Author from './Author'
 function BigHero() {
   return (
     <div 
@@ -41,7 +42,8 @@ function BigHero() {
       <Comic_Chair />
       <Comic_Face />
       <Comic_Bokk />
-      <Ipad/>
+      <Ipad />
+      <Author/>
   </div>
   )
 }
