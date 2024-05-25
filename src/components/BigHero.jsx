@@ -10,6 +10,8 @@ import Comic_Face from './Comic_Face'
 import Comic_Bokk from './Comic_Bokk'
 import Ipad from './Ipad'
 import Author from './Author'
+import Book from './Book'
+import Footer from './Footer'
 function BigHero() {
   return (
     <div 
@@ -43,7 +45,9 @@ function BigHero() {
       <Comic_Face />
       <Comic_Bokk />
       <Ipad />
-      <Author/>
+      <Author />
+      <Book />
+      <Footer/>
   </div>
   )
 }
