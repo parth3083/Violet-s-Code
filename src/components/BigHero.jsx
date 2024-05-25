@@ -6,6 +6,9 @@ import Car_Horse from './Car_Horse'
 import Car_Horse_2 from './Car_Horse_2'
 import Train from './Train'
 import Comic_Chair from './Comic_Chair'
+import Comic_Face from './Comic_Face'
+import Comic_Bokk from './Comic_Bokk'
+import Ipad from './Ipad'
 function BigHero() {
   return (
     <div 
@@ -35,7 +38,10 @@ function BigHero() {
       <Car_Horse />
       <Car_Horse_2 />
       <Train />
-      <Comic_Chair/>
+      <Comic_Chair />
+      <Comic_Face />
+      <Comic_Bokk />
+      <Ipad/>
   </div>
   )
 }
